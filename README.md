@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aziz Sediqi</h1>
 <h3 align="center">Full stack developer and Master of Computer Science</h3>
+
 <img align="center" width="100%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <img src="https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
@@ -8,6 +9,28 @@
 - 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Django, React JS**
+
+## 🚀 What I Do:
+
+### 🛠️ **SaaS Solutions**
+- I specialize in designing scalable SaaS products that help businesses grow. 
+- My focus is on building cloud-based applications, integrating APIs, and enhancing user experiences.
+
+### 🖥️ **Full-Stack Development**
+- I build dynamic and responsive web applications using **Django** for the back-end and **JavaScript** for the front-end.
+- My proficiency in **HTML**, **CSS**, and **JavaScript (ES6+)** ensures both functionality and aesthetics in web design.
+
+### 🔧 **Backend Development**
+- I have strong skills in **Python** and **Django**, and I create secure, high-performance back-end systems.
+- My experience with **databases** and **API integrations** ensures that your system runs smoothly and efficiently.
+
+### 🧠 **Problem-Solving**
+- Tackling complex challenges is one of my passions, whether it's debugging or building new features from scratch.
+
+### 🤝 **Communication & Collaboration**
+- I believe in the power of clear communication and collaboration to deliver successful projects. I work closely with clients to understand their goals and deliver the best solutions.
+
+## 🛠️ **Technical Skills**
 
 - 📫 How to reach me **sediqi.aziz1994@gmail.com**
 
